@@ -1,0 +1,8 @@
+{
+  "presets" : ["next/babel", "@babel/preset-typescript"]
+  /*
+  next-babel: Serve para escrever várias testes dentro do arquivo de testes utilizando as coisas novas do javaScript
+  e o babel vai fazer com que o ambiente entenda, fazendo uma pré compilação!
+  Como o projeto trabalha com typescript, precisa do preset do typescript para que ele consiga entender o código
+  */
+}
